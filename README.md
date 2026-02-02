@@ -38,8 +38,14 @@ MediaMarson/
 ├── db.py                    # Supabase connection
 ├── llm.py                   # LLM helper functions
 ├── .env                     # Environment variables
+
+
 ⚙️ Environment Setup
+
+
 1️⃣ Create .env file
+
+
 SUPABASE_URL=https://xxxxx.supabase.co
 SUPABASE_KEY=your_supabase_service_key
 
@@ -229,3 +235,14 @@ Supabase is the “editor UI”
 
 Safe for academic or production demos
 
+If you want next:
+
+ER diagram
+
+System architecture diagram
+
+Short README for submission
+
+Flowchart for report
+
+Just tell me 👌
