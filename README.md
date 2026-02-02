@@ -235,14 +235,4 @@ Supabase is the “editor UI”
 
 Safe for academic or production demos
 
-If you want next:
 
-ER diagram
-
-System architecture diagram
-
-Short README for submission
-
-Flowchart for report
-
-Just tell me 👌
